@@ -19,15 +19,15 @@ Technology Stack
 
 Backend:
 
-Spring Boot
-Spring Security
-JWT
-Maven
+Spring Boot,
+Spring Security,
+JWT,
+Maven,
 Java.
 
 Frontend:
 
-AngularJS
-HTML/CSS
-TypeScript
+AngularJS,
+HTML/CSS,
+TypeScript,
 AngularJS Material.
